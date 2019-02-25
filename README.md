@@ -5,18 +5,18 @@
 
 Preview Full Day Slides: https://ladieslearningcode.github.io/tlc-python-for-edu/slides-en.html
 
-<!--Preview 2-hour visit Slides (for Code Mobiles): https://ladieslearningcode.github.io/tlc-python-for-edu/slides-en-2hours.html-->
+Preview 2-hour visit Slides (for Code Mobiles): https://ladieslearningcode.github.io/tlc-python-for-edu/slides-2hr-en.html
 
 Preview Notes: https://ladieslearningcode.github.io/tlc-python-for-edu/notes-en.html
 
 ## Attributions
-Content created by [name] for Canada Learning Code, with contributions from [names].
+Content created by Brooke Snow for Canada Learning Code, with contributions from Paul Prescod, Nima Boscarino.
 
 Slide presentation created by Christina Truong for Canada Learning Code.
 
 Email questions & comments to [content@canadalearningcode.ca](mailto:content@canadalearningcode.ca).
 
-If you'd like to contribute to future lesson content development, let us know [here](https://docs.google.com/forms/d/e/1FAIpQLSfJ8NSMKVAmzpdn3EAymxCbDDz3XZPxyDdmtQ87GECuvXzzDQ/viewform).
+This content was created with the advisory of and in collaboration with educators, industry representatives and technologists. These individuals have helped us to ensure that lesson content represents the technology landscape and educator needs, with learners in mind. If you'd like to contribute to future lesson content development, let us know [here](https://docs.google.com/forms/d/e/1FAIpQLSfJ8NSMKVAmzpdn3EAymxCbDDz3XZPxyDdmtQ87GECuvXzzDQ/viewform).
 
 We're really happy to see others leverage our content in their community - we’ve developed it to be used by others with attribution through a [Creative Commons (CC BY-NC 4.0) license](https://creativecommons.org/licenses/by-nc/4.0/).
 
