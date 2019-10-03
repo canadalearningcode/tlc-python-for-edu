@@ -5,7 +5,7 @@
 
 Preview Full Day Slides: https://ladieslearningcode.github.io/tlc-python-for-edu/slides-en.html
 
-<!--Preview 2-hour visit Slides (for Code Mobiles): https://ladieslearningcode.github.io/tlc-python-for-edu/slides-en-2hours.html-->
+Preview 2-hour visit Slides (for Code Mobiles): https://ladieslearningcode.github.io/tlc-python-for-edu/slides-en-2hours.html
 
 Preview Notes: https://ladieslearningcode.github.io/tlc-python-for-edu/notes-en.html
 
