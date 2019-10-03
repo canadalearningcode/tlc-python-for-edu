@@ -10,7 +10,7 @@ Preview 2-hour visit Slides (for Code Mobiles): https://ladieslearningcode.githu
 Preview Notes: https://ladieslearningcode.github.io/tlc-python-for-edu/notes-en.html
 
 ## Attributions
-Content created by [name] for Canada Learning Code, with contributions from [names].
+Content created by Brooke Snow for Canada Learning Code, with contributions from Paul Prescod.
 
 Slide presentation created by Christina Truong for Canada Learning Code.
 
